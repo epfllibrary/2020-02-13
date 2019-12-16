@@ -8,8 +8,8 @@ latitude: "46.518619"     # decimal latitude of workshop venue (use https://www.
 longitude: "6.566414"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Feb 13-14, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-02-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-02-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: "2020-02-13"      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: "2020-02-14"        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Antoine Masson", "Mathilde Panes", "Raphaël Grolimund] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["tbc"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["formations.bib@epfl.ch"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
